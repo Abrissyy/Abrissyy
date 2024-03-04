@@ -5,9 +5,8 @@
 <img width="50%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=abrissyy&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
 
 # About me
-- 15 Years old
 - Poland
-- Discord: abrissy
+- Discord: abrissyo
 - Learning HTML and SQL
 
 # Languages
