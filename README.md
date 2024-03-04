@@ -23,4 +23,4 @@
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 # OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Kali-0078D6?style=for-the-badge&logo=kali&logoColor=white)
+![](https://img.shields.io/badge/ArchLinux-0078D6?style=for-the-badge&logo=kali&logoColor=white)
