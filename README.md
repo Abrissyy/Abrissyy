@@ -1,6 +1,6 @@
 
-![Profile visits](https://komarev.com/ghpvc/?username=TwojaNazwaUzytkownika&label=Odwiedziny%20profilu&color=blue&style=flat)
-![Most used languagesi](https://github-readme-stats.vercel.app/api/top-langs/?username=TwojaNazwaUzytkownika&layout=compact&theme=radical)
+![Profile visits](https://komarev.com/ghpvc/?username=TwojaNazwaUzytkownika&label=Odwiedziny%20profilu&color=blue&style=flat)<br>
+![Most used languagesi](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrissyy&layout=compact&theme=radical)
 
 # About me
 - Poland
