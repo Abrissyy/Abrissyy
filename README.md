@@ -12,7 +12,7 @@
 # Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/PHP-FFD43B?style=for-the-badge&logo=php&logoColor=blue)
-![](https://img.shields.io/badge/CPP-FFD43B?style=for-the-badge&logo=C++&logoColor=blue)
+![](https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=cpp&logoColor=blue)
 
 # IDEs
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
