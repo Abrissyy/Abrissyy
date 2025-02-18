@@ -11,15 +11,10 @@
 
 # Languages
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/BASH-ffb6c1?style=for-the-badge&logo=C3&logoColor=white)
-![](https://img.shields.io/badge/AutoHotKey-ff8d00?style=for-the-badge&logo=ahk&logoColor=blue)
 ![](https://img.shields.io/badge/PHP-FFD43B?style=for-the-badge&logo=php&logoColor=blue)
 
 # IDEs
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 # OSs
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Debian-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/ArchLinux-0078D6?style=for-the-badge&logo=kali&logoColor=white)
