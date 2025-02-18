@@ -1,5 +1,5 @@
 
-!(https://komarev.com/ghpvc/?username=TwojaNazwaUzytkownika&label=Odwiedziny%20profilu&color=blue&style=flat)
+![Odwiedziny profilu](https://komarev.com/ghpvc/?username=TwojaNazwaUzytkownika&label=Odwiedziny%20profilu&color=blue&style=flat)
 
 # About me
 - Poland
