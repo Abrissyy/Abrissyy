@@ -1,3 +1,5 @@
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Abrissyy&theme=react)
+<br>
 ![Statistics GitHub](https://github-readme-stats.vercel.app/api?username=Abrissyy&show_icons=true&theme=radical)<br>
 ![Profile visits](https://komarev.com/ghpvc/?username=Abrissyy&label=Visits&color=blue&style=flat)<br>
 # About me
