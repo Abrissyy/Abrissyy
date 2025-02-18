@@ -1,5 +1,6 @@
 
-![Odwiedziny profilu](https://komarev.com/ghpvc/?username=TwojaNazwaUzytkownika&label=Odwiedziny%20profilu&color=blue&style=flat)
+![Profile visits](https://komarev.com/ghpvc/?username=TwojaNazwaUzytkownika&label=Odwiedziny%20profilu&color=blue&style=flat)
+![Most used languagesi](https://github-readme-stats.vercel.app/api/top-langs/?username=TwojaNazwaUzytkownika&layout=compact&theme=radical)
 
 # About me
 - Poland
