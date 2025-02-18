@@ -1,4 +1,4 @@
-
+![Statistics GitHub](https://github-readme-stats.vercel.app/api?username=Abrissyy&show_icons=true&theme=radical)
 ![Profile visits](https://komarev.com/ghpvc/?username=TwojaNazwaUzytkownika&label=Odwiedziny%20profilu&color=blue&style=flat)<br>
 # About me
 - Poland
